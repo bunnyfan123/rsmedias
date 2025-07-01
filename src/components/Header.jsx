@@ -5,7 +5,7 @@ const Header = () => (
     <div className="container">
       <nav className="navbar">
         <a href="index.html" className="logo">
-          <img src="/logo rs.png" alt="RS Medias Logo" />
+          <img src="/logo_rs.png" alt="RS Medias Logo" />
         </a>
         <ul className="nav-links">
           <li><a href="#home" className="active">Home</a></li>
